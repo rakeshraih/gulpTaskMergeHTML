@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "gulp": "~3.5.6",
+    "gulp-async-tasks": "^1.0.0",
+    "gulp-content-to-variable": "^0.1.0",
+    "gulp-fs": "0.0.2",
+    "gulp-intercept": "^0.1.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-remote-src": "^0.4.1",
+    "gulp-replace": "^0.5.4",
+    "gulp-tap": "~1.5.1",
+    "gulp-template": "~0.2.1"
+  },
+  "dependencies": {
+    "gulp-buffer": "0.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-file": "^0.3.0",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-inject": "^4.2.0",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-print": "^2.0.1",
+    "gulp-run-sequence": "^0.3.2",
+    "gulp-wait": "0.0.2",
+    "merge2": "^1.0.3",
+    "request": "^2.79.0"
+  }
+}
